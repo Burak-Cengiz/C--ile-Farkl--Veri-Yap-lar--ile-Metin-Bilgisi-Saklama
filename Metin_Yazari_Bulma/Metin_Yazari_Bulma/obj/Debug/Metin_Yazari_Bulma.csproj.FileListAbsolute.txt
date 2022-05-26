@@ -1,0 +1,11 @@
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\bin\Debug\Metin_Yazari_Bulma.exe.config
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\bin\Debug\Metin_Yazari_Bulma.exe
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\bin\Debug\Metin_Yazari_Bulma.pdb
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\obj\Debug\Metin_Yazari_Bulma.csproj.AssemblyReference.cache
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\obj\Debug\Metin_Yazari_Bulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\obj\Debug\Metin_Yazari_Bulma.Form1.resources
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\obj\Debug\Metin_Yazari_Bulma.Properties.Resources.resources
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\obj\Debug\Metin_Yazari_Bulma.csproj.GenerateResource.cache
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\obj\Debug\Metin_Yazari_Bulma.csproj.CoreCompileInputs.cache
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\obj\Debug\Metin_Yazari_Bulma.exe
+C:\Users\kazbu\source\repos\Metin_Yazari_Bulma\Metin_Yazari_Bulma\obj\Debug\Metin_Yazari_Bulma.pdb
